@@ -1,5 +1,5 @@
 # CoordinatorLayoutDemo
-CoordinatorLayout的使用demo<br/>
+CoordinatorLayout的使用demo，文章地址：http://blog.csdn.net/Ezreal_to/article/details/52293131<br/>
 
 
 1.与FloatingActionButton，SnackBar一起使用<br/>
